@@ -1,0 +1,6 @@
+Szolgáltatás;Leírás;Ár
+Bizományos értékesítés;Ügyintézési díj;49 000 Ft
+Okmányirodai ügyintézés (átíratás);Teljeskörű lebonyolítás;35 000 Ft
+Eredetvizsga;Hatósági vizsgálat;20 000 Ft
+Biztosításkötési ügyintézés;CASCO / kötelező szerződéskötés;15 000 Ft
+Műszaki átvizsgálás;Általános állapotfelmérés;25 000 Ft
